@@ -1,5 +1,3 @@
-![Jorisawmd](https://user-images.githubusercontent.com/54600856/187561404-41fc2ecb-f246-4c8e-8a00-2fcd8d7f2ebd.jpg)
-
 ### Hi there Joris Darlington Quarshie 👋
 Joris Darlington Quarshie is an experienced Data Scientist, Developer Advocate, and a Tech Community Builder.
 
@@ -12,4 +10,4 @@ Helping bridge the technology skills gap for the underserved talents in Africa a
 We’ve developed initiatives and tailored programs that drive greater inclusion and diversity in the data science,software engineering and other technological fields through providing free tech educational and professional opportunities to over 9,000+ highly deserving Africans and the black community at large.
 
 Tech communities in Ghana and Africa at large🏅 have feted Joris for his advocacy efforts and contributions in increasing the participation, inclusivity, representation and diversity of the black people in the technological field, and creating robust pipelines of qualified, trained and talented tech professionals.
-
+![Jorisawmd](https://user-images.githubusercontent.com/54600856/187561404-41fc2ecb-f246-4c8e-8a00-2fcd8d7f2ebd.jpg)
