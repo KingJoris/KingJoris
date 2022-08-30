@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there Joris Darlington Quarshie 👋
+Joris Darlington Quarshie is an experienced Data Scientist, Developer Advocate, and a Tech Community Builder.
 
-<!--
-**KingJoris/KingJoris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+He is the catalyst that brings your brand, stakeholders, data, technology and decisions together to build and deliver better products, create delightful customer experiences, resulting in accelerated💰 growth 📈 and impact.
 
-Here are some ideas to get you started:
+He is a key advocate and promoter of the Sustainable Development Goal 4: Promoting data science education for all.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Helping bridge the technology skills gap for the underserved talents in Africa and globally is his top priority agenda.
+
+We’ve developed initiatives and tailored programs that drive greater inclusion and diversity in the data science,software engineering and other technological fields through providing free tech educational and professional opportunities to over 9,000+ highly deserving Africans and the black community at large.
+
+Tech communities in Ghana and Africa at large🏅 have feted Joris for his advocacy efforts and contributions in increasing the participation, inclusivity, representation and diversity of the black people in the technological field, and creating robust pipelines of qualified, trained and talented tech professionals.
+
