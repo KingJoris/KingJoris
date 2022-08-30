@@ -11,4 +11,3 @@ We’ve developed initiatives and tailored programs that drive greater inclusion
 
 Tech communities in Ghana and Africa at large🏅 have feted Joris for his advocacy efforts and contributions in increasing the participation, inclusivity, representation and diversity of the black people in the technological field, and creating robust pipelines of qualified, trained and talented tech professionals.
 
-https://web.facebook.com/ofwafrica/photos/pcb.2390905024565346/2390904921232023
