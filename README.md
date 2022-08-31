@@ -1,3 +1,5 @@
+![new](https://user-images.githubusercontent.com/54600856/187564236-81624093-a5ed-44c9-affe-92aa8de8f090.jpg)
+
 ### Hi there Joris Darlington Quarshie 👋
 Joris Darlington Quarshie is an experienced Data Scientist, Developer Advocate, and a Tech Community Builder.
 
